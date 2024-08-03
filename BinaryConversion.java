@@ -1,4 +1,5 @@
 //I made this in CodeHS. Here is the link: https://codehs.com/sandbox/id/binaryconversionlab22-2dmVyv
+//Emulating the convserion of real life numbers into binary used in computers
 import java.util.*;
 
 public class MyProgram {

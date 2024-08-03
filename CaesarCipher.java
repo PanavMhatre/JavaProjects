@@ -1,4 +1,5 @@
 //Created using CodeHS. Here is the link: https://codehs.com/sandbox/id/caesarciphercodescyher-6QpaA3
+//Emulating a real life cypher used in sending secret messages
 public class MyProgram
 {
     public static void main(String[] args)

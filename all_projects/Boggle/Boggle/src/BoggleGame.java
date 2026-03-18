@@ -1,3 +1,4 @@
+package all_projects.Boggle.Boggle.src;
 /******************************************************************************
  *  Compilation:  javac BoggleGame.java
  *  Execution:    java BoggleGame [m n]

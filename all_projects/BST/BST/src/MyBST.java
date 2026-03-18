@@ -1,3 +1,4 @@
+package all_projects.BST.BST.src;
 
 public class MyBST {
 	IntTreeNode overallRoot;
